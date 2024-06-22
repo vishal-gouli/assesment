@@ -1,0 +1,12 @@
+.logo{
+    height: 90px;
+    -webkit-user-drag: 100%;
+    /* border: 2px solid red; */
+    background-color: antiquewhite;
+}
+ img{
+    padding-top: 10px;
+    padding-left: 80px;
+    height: 70px;
+    width: 90px;
+}

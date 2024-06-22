@@ -1,0 +1,28 @@
+.container{
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid red; */
+    /* width: 80%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forming{
+    height: 300px;
+    width: 40%;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 1px 1px;
+}
+.btn{
+     width: 30%;
+     height: 40px;
+     border-radius: 8px;
+     background-color: blue;
+     color: white;
+     font-size: 19px;
+}
